@@ -1,16 +1,34 @@
-## Hi there 👋
+💻 Technical Skills
+Programming Languages: C, C++, Python, Java
 
-<!--
-**MeghashreeJ2005/MeghashreeJ2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Development: HTML, CSS, JavaScript, React.js, Node.js
 
-Here are some ideas to get you started:
+Database Management: MySQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Structures & Algorithms
+
+Object-Oriented Programming (OOP)
+
+Operating Systems, DBMS, Computer Networks
+
+🛠️ Tools & Technologies
+Git & GitHub
+
+VS Code, IntelliJ IDEA
+
+Postman (API Testing)
+
+Linux Basics / Command Line
+
+Figma (UI Design basics, if applicable)
+
+🌐 Soft Skills
+Problem-Solving
+
+Team Collaboration
+
+Time Management
+
+Communication Skills
+
+Quick Learning and Adaptability
