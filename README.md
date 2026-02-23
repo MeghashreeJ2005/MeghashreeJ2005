@@ -10,27 +10,35 @@ I am a Computer Science Engineering student at PES Institute of Technology and M
 I enjoy learning new technologies and building practical applications that solve real-world problems.
 
 I am particularly interested in:
+
 Full-Stack Development
+
 Blockchain Technology
-Data Structures & Algorithms
+
 AI & Machine Learning
+
 I believe in continuous learning and improving through hands-on projects.
 
 🛠️ Technical Skills
+
 💻 Programming Languages
 
 Python
+
 C
+
 Java
 
 🌐 Web Technologies
 
 HTML
+
 CSS
 
 ⛓️ Blockchain
 
 Hyperledger Fabric
+
 IPFS
 
 🗄️ Database
@@ -40,7 +48,9 @@ SQL
 🔧 Tools
 
 Git
+
 VS Code
+
 AI Tools (ChatGPT, Gemini)
 
 📂 Featured Projects
@@ -69,6 +79,7 @@ Tech Used: Hyperledger Fabric, IPFS
 🏆 Achievements
 
 Participated in Smart India Hackathon with the project:
+
 Academic Certificate Fraud Detection using Blockchain
 
 📜 Certification
@@ -76,7 +87,9 @@ Academic Certificate Fraud Detection using Blockchain
 Introduction to Machine Learning – Infosys Springboard
 
 🌱 Currently Learning
+
 Full-Stack Development
+
 Cloud & Deployment
 
 📫 Connect With Me
